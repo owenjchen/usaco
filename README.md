@@ -4,7 +4,7 @@ Dr. Owen Chen's C++ solutions to USA Computing Olympiad (USACO) problems
 ## About Dr. Owen Chen
 LinkIn: https://www.linkedin.com/in/owenchen/
 
-Dr. Chen is currently working in Fidelity in the area of AI/ML, but he has been volunteering for local non-profit communities for a long time. 
+Dr. Chen is currently working at Fidelity in the area of AI/ML, but he has been volunteering for local non-profit communities for years. 
 
 Dr. Chen has been coaching high school students for various computer science competitions (including ACSL and USACO) as a volunteer.  Dr. Chen is current teaching the following two classes for a non-profit weekend school - Cary Chinese School (CCS):
 
