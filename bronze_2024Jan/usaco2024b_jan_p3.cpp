@@ -7,11 +7,10 @@
 
     Dr. Chen's analysis:
     Perform two cumulated sums:
-        accum_sum1(i) = sum(-bacteria(0 ... i))
-        accum_sum2(i) = sum(accum_sum1(0, ..., i) - bacteria(i))
         bacteria(i) += accum_sum2(i)
+        accum_sum1(i) = sum(-bacteria(0 ... i))
+        accum_sum2(i) =  sum(accum_sum1(i) - bacteria(i))
         res = sum(abs(bacteria(i)))
-
     Complexity:
         O(n)
 
@@ -31,8 +30,8 @@ int main() {
     ll res = 0, accum_sum1 = 0, accum_sum2 = 0;
     for (int i = 0; i < N; i++){
         bacteria[i] += accum_sum2; // bacteria[i] += sum(sum(-bacteria(0 ... i-1) - bacteria(i-1))
-        accum_sum1 -= bacteria[i]; // accum_sum1 = sum(-bacteria(0 ... i))
-        accum_sum2 += accum_sum1 - bacteria[i]; // accum_sum2 = sum(sum(-bacteria(0 ... i) - bacteria(i))
+        accum_sum1 -= bacteria[i]; // accum_sum1(i) = sum(-bacteria(0 ... i))
+        accum_sum2 += accum_sum1 - bacteria[i]; // accum_sum2(i) = sum(accum_sum1(i) - bacteria(i))
         res += abs(bacteria[i]);
     }
     cout << res << endl;
