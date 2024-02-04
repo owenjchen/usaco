@@ -6,7 +6,7 @@
     http://www.usaco.org/index.php?page=viewproblem2&cpid=1373
 
     Dr. Chen's analysis:
-    Perform two accumulated sums:
+    Perform two cumulated sums:
         accum_sum1(i) = sum(-bacteria(0 ... i))
         accum_sum2(i) = sum(accum_sum1(0, ..., i) - bacteria(i))
         bacteria(i) += accum_sum2(i)
