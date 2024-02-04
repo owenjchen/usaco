@@ -13,7 +13,7 @@ Dr. Chen has been coaching high school students for various computer science com
  - Format: online Zoom meeting
  - Objective: prepare high school students for USACO competitions in Bronze, Silver and Gold levels.
  - Language: C++
- - Number of weeks per school year: ~33 weeks
+ - Number of weeks per school year: ~30 weeks (Sept - May)
  - Interested in joining Dr. Chen's USACO  Prep class?  Register at CCS website: https://www.carycs.org/register.html
  - Questions: contact owen.chen@carycs.org
 
@@ -22,7 +22,7 @@ Dr. Chen has been coaching high school students for various computer science com
  - Format: online Zoom meeting
  - Objective: prepare middle school and high school students for ACSL competitions.
  - Language: Python
- - Number of weeks per school year: ~33 weeks
+ - Number of weeks per school year: ~30 weeks (Sept - May)
  - Interested in joining Dr. Chen's ACSL Python class?  Register at CCS website: https://www.carycs.org/register.html
  - CCS also offers a Java class to prepare for ACSL.
  - Questions: contact owen.chen@carycs.org
