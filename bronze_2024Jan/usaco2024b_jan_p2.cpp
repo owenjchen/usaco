@@ -12,11 +12,12 @@
         - current_direction ( 1 = forward, -1 = backward)
         - current_power
         - next_position = current_position + current_direction * current_power
-    - Use a Map data structure to keep a track on breaking records
+    - Use a Map data structure to keep track on record breakings
 
     Complexity:
         O(n*log(n))
 
+    https://github.com/owenjchen/usaco/blob/main/bronze_2024Jan/usaco2024b_jan_p2.cpp
 */
 #include <bits/stdc++.h>
 using namespace std;

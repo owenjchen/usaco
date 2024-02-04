@@ -14,6 +14,8 @@
 
     Complexity:
         O(n)
+        
+    https://github.com/owenjchen/usaco/blob/main/bronze_2024Jan/usaco2024b_jan_p3.cpp    
 */
 #include <bits/stdc++.h>
 using namespace std;

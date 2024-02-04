@@ -1,11 +1,17 @@
 /*
     Author: Dr. Owen Chen
     Datetime: 2024-01-28
-    USACO 2024 Jan Bronze
-    Problem 1
-    Final Version:
+    USACO 2024 January Contest, Bronze
+    Problem 1. Majority Opinion
+
+    Dr. Chen's Analysis:
      - find any substring of 3 with two of them having the same type
      - use a set to keep tracking of types with a majority
+
+    Complexity:
+        O(N)
+
+    https://github.com/owenjchen/usaco/blob/main/bronze_2024Jan/usaco2024b_jan_p1.cpp
 */
 #include <bits/stdc++.h>
 using namespace std;
