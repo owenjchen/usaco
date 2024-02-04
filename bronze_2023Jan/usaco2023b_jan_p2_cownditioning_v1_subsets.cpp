@@ -12,7 +12,8 @@
 		- O(2^M) for # of subsets
 		- O(N) for checking feasible set
 		- O(M) for calculating cost
-		
+	
+	https://github.com/owenjchen/usaco/blob/main/bronze_2023Jan/usaco2023b_jan_p2_cownditioning_v1_subsets.cpp
 */
 #include <bits/stdc++.h>
 #include <climits>

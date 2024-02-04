@@ -25,6 +25,8 @@
                         Break from the current candy loop if the candy is gone (current_height >= cane).
     - Complexity:  
         O(N*M)
+        
+    https://github.com/owenjchen/usaco/blob/main/bronze_2023Dec/usaco2023b_dec_p1.cpp
 */
 #include <bits/stdc++.h>
 using namespace std;

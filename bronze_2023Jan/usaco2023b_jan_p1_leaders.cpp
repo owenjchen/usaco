@@ -7,6 +7,8 @@
 
     Complexity:
       O(N)
+      
+    https://github.com/owenjchen/usaco/blob/main/bronze_2023Jan/usaco2023b_jan_p1_leaders.cpp
 */
 #include <bits/stdc++.h>
 using namespace std;
