@@ -10,12 +10,12 @@
         - corner case 1: all infected
         - corner case 2: 0, 1 or 2 infected
     - General case: 3 or more infected:
-        - bateria started from the left side
+        - bacteria started from the left side
         - get cows infected from the left side:
             left = # of cows infected on the left
-        - bateria started from the right side:
+        - bacteria started from the right side:
             right = # of cows infected on the right
-        - bateria started in the middle:
+        - bacteria started in the middle:
                 min_infected = 0;
                 int growth = 2*min_nights + 1;
                 if (left > 0) {
