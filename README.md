@@ -19,7 +19,7 @@ Dr. Chen has been coaching high school students for various computer science com
 
 ### Python Introduction & ACSL
  - Time: every Saturday 11:00am - 12:50pm Eastern Time
- - Format: in-person class at Panther Creek High lSchool
+ - Format: in-person class at Panther Creek High School
  - Objective: prepare middle school and high school students for ACSL competitions.
  - Language: Python
  - Number of weeks per school year: ~30 weeks (Sept - May)
