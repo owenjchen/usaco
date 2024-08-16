@@ -9,7 +9,7 @@ Dr. Chen is currently working at Fidelity in the area of AI/ML, but he has been 
 Dr. Chen has been coaching high school students for various computer science competitions (including ACSL and USACO) as a volunteer.  Dr. Chen is current teaching the following two classes for a non-profit weekend school - Cary Chinese School (CCS):
 
 ### USACO Prep
- - Time: every Sunday 7:00pm - 8:50pm Eastern Time
+ - Time: every Saturday 7:00pm - 8:50pm Eastern Time
  - Format: online Zoom meeting
  - Objective: prepare high school students for USACO competitions in Bronze, Silver and Gold levels.
  - Language: C++
@@ -17,13 +17,13 @@ Dr. Chen has been coaching high school students for various computer science com
  - Interested in joining Dr. Chen's USACO  Prep class?  Register at CCS website: https://www.carycs.org/register.html
  - Questions: contact owen.chen@carycs.org
 
-### ACSL Python
- - Time: every Saturday 7:00pm - 7:50pm Eastern Time
- - Format: online Zoom meeting
+### Python Introduction & ACSL
+ - Time: every Saturday 11:00am - 12:50pm Eastern Time
+ - Format: in-person class at Panther Creek High lSchool
  - Objective: prepare middle school and high school students for ACSL competitions.
  - Language: Python
  - Number of weeks per school year: ~30 weeks (Sept - May)
- - Interested in joining Dr. Chen's ACSL Python class?  Register at CCS website: https://www.carycs.org/register.html
+ - Interested in joining Dr. Chen's Python class?  Register at CCS website: https://www.carycs.org/register.html
  - CCS also offers a Java class to prepare for ACSL.
  - Questions: contact owen.chen@carycs.org
 
